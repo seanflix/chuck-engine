@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chuck-engine/static/css/main.f3c08192.css",
-    "main.js": "/chuck-engine/static/js/main.96fc7dd8.js",
+    "main.css": "/chuck-engine/static/css/main.2a20d77b.css",
+    "main.js": "/chuck-engine/static/js/main.5cd5eb62.js",
     "static/js/787.ed566a31.chunk.js": "/chuck-engine/static/js/787.ed566a31.chunk.js",
     "static/media/chuck-head.png": "/chuck-engine/static/media/chuck-head.dcb0bf15f723b9b3c96a.png",
     "static/media/chuck-bg.png": "/chuck-engine/static/media/chuck-bg.94eaa6bdf8fb5b3473b1.png",
     "static/media/check-engine.png": "/chuck-engine/static/media/check-engine.8aa4b992365238f0c5c8.png",
     "index.html": "/chuck-engine/index.html",
-    "main.f3c08192.css.map": "/chuck-engine/static/css/main.f3c08192.css.map",
-    "main.96fc7dd8.js.map": "/chuck-engine/static/js/main.96fc7dd8.js.map",
+    "main.2a20d77b.css.map": "/chuck-engine/static/css/main.2a20d77b.css.map",
+    "main.5cd5eb62.js.map": "/chuck-engine/static/js/main.5cd5eb62.js.map",
     "787.ed566a31.chunk.js.map": "/chuck-engine/static/js/787.ed566a31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c08192.css",
-    "static/js/main.96fc7dd8.js"
+    "static/css/main.2a20d77b.css",
+    "static/js/main.5cd5eb62.js"
   ]
 }
